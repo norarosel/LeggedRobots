@@ -1,3 +1,5 @@
+# Legged Robots P1
+This repository is used for the class Legged Robots at EPFL in the year 2023.
 # Legged-Locomotion
 
 
